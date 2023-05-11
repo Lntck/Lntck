@@ -1,12 +1,14 @@
 [![MasterHead](https://github.com/Lntck/Lntck/assets/95972205/4644b176-3dc5-4379-9f1a-acabb11a5929)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rushan Shafeev</h1>
-- 🌱 I’m currently learning **Web Development | Python**
+- 🧐 I’m currently learning **Web Development | Python**
 
 - 👨‍💻 All of my projects are available at [https://shafeev.site/](https://shafeev.site/)
 
 - 📫 How to reach me **Lntckkk@yandex.ru**
 
 <h3 align="left">Connect with me:</h3>
+<a href="https://vk.com/lunt1ck" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13977&format=png" alt="VK" height="40" width="40" /></a>
+<a href="https://t.me/lntckkk" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=EWzVSK2hyV9H&format=png" alt="TG" height="40" width="40" /></a>
 <p align="left">
 </p>
 
