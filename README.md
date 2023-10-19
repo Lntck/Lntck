@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/Lntck/Lntck/assets/95972205/4644b176-3dc5-4379-9f1a-acabb11a5929)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rushan Shafeev</h1>
-- 🧐 I’m currently learning **Web Development | Python**
+- 🧐 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://shafeev.site/](https://shafeev.site/)
 
