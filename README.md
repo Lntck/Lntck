@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushan Shafeev</h1>
 
 - 👨‍💻 All of my projects are available at (site currently under development).
-- 📫 How to reach me **Lntckkk@yandex.ru**
+- 📫 How to reach me **shafeev.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://t.me/lntckkk" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=EWzVSK2hyV9H&format=png" alt="TG" height="40" width="40" /></a>
