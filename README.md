@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushan Shafeev</h1>
 
-- 👨‍💻 All of my projects are available at [https://shafeev.site/](https://shafeev.site/)
+- 👨‍💻 All of my projects are available at (site currently under development).
 - 📫 How to reach me **Lntckkk@yandex.ru**
 
 <h3 align="left">Connect with me:</h3>
