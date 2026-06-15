@@ -1,19 +1,35 @@
 <h1 align="center">Hi 👋, I'm Rushan Shafeev</h1>
 
-- 📫 How to reach me **shafeev.dev@gmail.com**
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🧑‍💻 About Me</h3>
+      <p>
+        🌐 Portfolio: <a href="https://shafeev.pro" target="_blank">shafeev.pro</a><br><br>
+        👋 I'm a Backend & DevOps-oriented Software Engineer and Computer Science student at @<strong>Innopolis University</strong>.<br><br>
+        💻 I specialize in building scalable backend systems and infrastructure, designing high-performance APIs, distributed services, and reliable cloud-native architectures.<br><br>
+        ⚙️ Focused on backend engineering, system design, and DevOps practices including CI/CD, containerization, and production-ready deployments.
+      </p>
+      <h3>📫 Contact</h3>
+      <p>
+        Email: <a href="mailto:shafeev.dev@gmail.com">shafeev.dev@gmail.com</a><br>
+        Telegram: <a href="https://t.me/lntckkk">@lntckkk</a><br>
+        LinkedIn: <a href="https://linkedin.com/in/shafeev">linkedin.com/in/shafeev</a><br>
+      </p>
+    </td>
+    <td width="45%" align="center" valign="top">
+      <img src="github-metrics.svg" alt="GitHub Metrics" />
+    </td>
+  </tr>
+</table>
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://t.me/lntckkk" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=EWzVSK2hyV9H&format=png" alt="TG" height="40" width="40" /></a>
-<p align="left">
-</p>
-</p>
+---
 
+## ⚙️ Tech Focus
 
-
-<div class="stats" align="center">
-  
-![Rushan Shafeev GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lntck&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Lntck&count_private=true&theme=algolia&border_radius=20)
- 
-</div>
+- Backend: Python, FastAPI, Django  
+- Databases: PostgreSQL, Redis  
+- Messaging: RabbitMQ  
+- DevOps: Docker, Linux, CI/CD  
+- Architecture: Distributed systems, microservices  
+- Integrations: AI-powered backend systems  

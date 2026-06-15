@@ -1,0 +1,74 @@
+name: GitHub Stats Generator
+
+on:
+  # Weekly update (every Monday at 00:00 UTC)
+  schedule:
+    - cron: '0 0 * * 1'
+
+  # Manual trigger
+  workflow_dispatch:
+
+  # Optional: run on push to main
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  issues: read
+  pull-requests: read
+
+jobs:
+  generate-metrics:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.METRICS_TOKEN }}
+
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: lntck
+          template: classic
+
+          base: header, activity, community, repositories, metadata
+          base_indepth: true
+
+          config_octicon: true
+          config_timezone: Europe/Moscow
+          config_twemoji: true
+
+          # Languages
+          plugin_languages: true
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_indepth: true
+          plugin_languages_limit: 8
+          plugin_languages_other: true
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 30
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+
+          # LeetCode
+          plugin_leetcode: true
+          plugin_leetcode_limit_recent: 2
+          plugin_leetcode_limit_skills: 10
+          plugin_leetcode_sections: solved
+          plugin_leetcode_user: lntck
+
+          # Output
+          filename: github-metrics.svg
+
+          # Commit settings
+          committer_token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: main
+          committer_message: "Update GitHub metrics [skip ci]"
