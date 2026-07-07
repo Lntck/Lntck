@@ -5,7 +5,7 @@
     <td width="55%" valign="top">
       <h3>🧑‍💻 About Me</h3>
       <p>
-        🌐 Portfolio: <a href="https://shafeev.pro" target="_blank">shafeev.pro</a><br><br>
+        🌐 Portfolio: <a href="https://shafeev.dev" target="_blank">shafeev.dev</a><br><br>
         👋 I'm a Backend & DevOps-oriented Software Engineer and Computer Science student at @<strong>Innopolis University</strong>.<br><br>
         💻 I specialize in building scalable backend systems and infrastructure, designing high-performance APIs, distributed services, and reliable cloud-native architectures.<br><br>
         ⚙️ Focused on backend engineering, system design, and DevOps practices including CI/CD, containerization, and production-ready deployments.
