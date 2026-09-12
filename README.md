@@ -22,14 +22,3 @@
     </td>
   </tr>
 </table>
-
----
-
-## ⚙️ Tech Focus
-
-- Backend: Python, FastAPI, Django  
-- Databases: PostgreSQL, Redis  
-- Messaging: RabbitMQ  
-- DevOps: Docker, Linux, CI/CD  
-- Architecture: Distributed systems, microservices  
-- Integrations: AI-powered backend systems  
