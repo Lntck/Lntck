@@ -13,7 +13,7 @@
       <h3>📫 Contact</h3>
       <p>
         Email: <a href="mailto:shafeev.dev@gmail.com">shafeev.dev@gmail.com</a><br>
-        Telegram: <a href="https://t.me/lntckkk">@lntckkk</a><br>
+        Telegram: <a href="https://t.me/lntckkk">@RushanShafeev</a><br>
         LinkedIn: <a href="https://linkedin.com/in/shafeev">linkedin.com/in/shafeev</a><br>
       </p>
     </td>
